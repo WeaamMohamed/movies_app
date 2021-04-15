@@ -1,7 +1,9 @@
 # movie_app
 
-Flutter application showing movies and tv shows of different categories such as, trending, upcoming, top rated...
-showing details including overview, release date, videos, images, cast and crew and some other information about the movie.. allow user to search for movie.
+Flutter application showing movies and tv shows of different categories such as, trending, upcoming, top rated..
+showing details including overview, release date, videos, images, cast and crew and some other information about the movie
+showing trailer of each movie 
+allow user to search for movie.
 
 
 #
