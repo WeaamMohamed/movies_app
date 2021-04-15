@@ -1,16 +1,29 @@
 # movie_app
 
-A new Flutter application.
+Flutter application showing movies and tv shows of different categories such as, trending, upcoming, top rated...
+showing details including overview, release date, videos, images, cast and crew and some other information about the movie.. allow user to search for movie.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+#
+#
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+| All movies   | movies list | Tv Shows |
+| -------------- | -------------- | -------------- |
+| <p align="center"> <img src="screenshots/movieHomeSreen.jpg" width="100%"> </p> | <p align="center"> <img src="screenshots/movieLists.jpg" width="100%"> </p> | <p align="center"> <img src="screenshots/tvShows.jpg" width="100%"> </p> |
+
+
+
+#
+#
+
+
+
+
+| search screen | Search result |movie details|
+| -------------- | -------------- |-------------- |
+| <p align="center"> <img src="screenshots/emptySearch.jpg" width="100%"> </p> | <p align="center"> <img src="screenshots/searchResult.jpg" width="100%"> </p> |  <p align="center"> <img src="screenshots/movieDetails.jpg" width="100%"> </p> | 
+
+
