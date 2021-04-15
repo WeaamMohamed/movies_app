@@ -14,7 +14,7 @@ allow user to search for movie.
 
 | All movies   | movies list | Tv Shows |
 | -------------- | -------------- | -------------- |
-| <p align="center"> <img src="screenshots/movieHomeSreen.jpg" width="100%"> </p> | <p align="center"> <img src="screenshots/movieLists.jpg" width="100%"> </p> | <p align="center"> <img src="screenshots/tvShows.jpg" width="100%"> </p> |
+| <p align="center"> <img src="screenshots/movieHome.jpg" width="100%"> </p> | <p align="center"> <img src="screenshots/movieLists.jpg" width="100%"> </p> | <p align="center"> <img src="screenshots/tvShows.jpg" width="100%"> </p> |
 
 
 
